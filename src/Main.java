@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Opening browser");
         System.out.println("Opening application URL");
         System.out.println("Logging in as Vadim/QWERTY1234");
-        System.out.println("Validating Welcome message appears");
+        System.out.println("Validating that the message 'Hello Vadim' appears");
     }
 }
